@@ -2,3 +2,7 @@ p+h3 {
     color: aquamarine;
     background-color: #000;
 }
+
+input[type="text"] {
+    background-color: red;
+}
