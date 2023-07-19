@@ -6,3 +6,8 @@ p+h3 {
 input[type="text"] {
     background-color: red;
 }
+
+div[id="myId"] {
+    background-color: aqua;
+    padding: 20px;
+}
