@@ -1,0 +1,7 @@
+div{
+    width: 500px;
+    background-color: khaki;
+    transform: scale(2);
+    margin-left: 300px;
+    margin-top: 100px;
+}
