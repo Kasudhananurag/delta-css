@@ -1,0 +1,12 @@
+* flexible box layout in css is called flexbox
+* 1-d method for arranging items in rows or cols.
+* helps in webiste ko responsive bnane me
+* flex model is basis of flex box
+* flex model has a main axs aur ek cross axis
+* flexbox ko hmesha axis k trms me smjhte!
+* for elemnt getting row flxbox ppt, horizontally main axis hta and vertically cross axis
+* for elemnt getting col flxbox ppt, horizontally cros axis hota aur veritycally main axsi
+* generally hm container k display ppt ko flex value dete hain jis se us container k andr k sare elemtns bhi flexbox jaisa behv krte!
+* intrnl items bole to flex items kaise behave krne ye seekhna ab apne ko!
+* flex direction ko row ya column set kr skte hain
+* by default flex direction row hta h
