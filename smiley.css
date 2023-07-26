@@ -6,8 +6,8 @@
 }
 
 .eye1, .eye2 {
-    height: 70px;
-    width: 70px;
+    height: 40px;
+    width: 40px;
     border-radius: 50%;
     background-color: #000;
     position: absolute;
@@ -15,11 +15,11 @@
 }
 
 .eye1 {
-    left:70px;
+    left:100px;
 }
 
 .eye2 {
-    left: 270px;
+    left: 260px;
     /* background-color: red; */
 }
 
