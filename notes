@@ -10,3 +10,29 @@
 * intrnl items bole to flex items kaise behave krne ye seekhna ab apne ko!
 * flex direction ko row ya column set kr skte hain
 * by default flex direction row hta h
+* row => main axis left to right
+* row-reverse => main axs right to lft
+* column => axis top to bottm
+* column-reverse => axis bottm to top
+* justify-content -> tells how the browser distributes space b/w nd around the content items along the main axiw
+* values to ppt are flex-start, flex-end & center space-between and space-around space-evenly bhhi hota hai!
+* flex-wrap ye decide krta hai ki agr flex items ek line se jada space lete hain to wo baki ko next line me push kr deta hai!! something like word wrap?
+* ppt k value hte hain no-wrap, wrap, wrap-reverse
+* align-items aisi ppt hai that distributes the items along the cross axis!
+* ppt k values flex-start, flex-end aur center hote hain!   
+* align content sets distribution of space between and around content items along a flesbox's cross-axis
+* ppt k value hte h flex-start, flex-end, center
+* alig-content k baseline alue ko smjho
+* align-self = 4 values hote hain iske -> flec-start, flex-end, center, baseline
+* items ko cross-axis k along align krta hai
+* align items is for a group of elements, where as align-self is for individual items and hold a priority greater than align-items
+* flex-sizing sets the inital man sizing of a flex item
+* flex-grow -> ye batata hai ki agar flex container ke andar koi khali space rh jati hai to hamara main flex item kaise grow karega
+* by default flex-grow ki value 1 hoti hai, ise hm proportions me increase kr skte hain
+* aisehi apne pass flex-shrink hota hai
+* flex shorthnd
+* flex:flex-grow|flex-shrink|flex-basis
+* flex:flex-grow|flex-basis
+* flex: flex-grow(unitless->proportions me indicate krna hota hai!)
+* aur agar unit se ksath di hhui h to use flex-basis mannge { flex:flx-basis(with unit)}
+* 
